@@ -4,6 +4,8 @@ Project overview
 ----------------
 This is a compact 2D platformer prototype built with JavaFX and a Canvas-based renderer. The game uses a tile atlas and a small level builder to assemble a single level. Gameplay mechanics include running, jumping, collecting items, opening boxes/lockers, and a simple win condition (collect a diamond).
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/857e9bcb-9d1c-4620-87ea-9222b62d209f" />
+
 Design choices
 --------------
 - Tile-based level represented with two integer grids: `solidLayer` (collision tiles) and `decoLayer` (visual/foreground tiles). This keeps rendering and collision simple and separate.
