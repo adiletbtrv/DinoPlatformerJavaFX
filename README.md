@@ -47,10 +47,6 @@ Controls:
 - Jump / interact: W / Up / Space
 - Exit fullscreen: ESC 
 
-Video link
-----------
-- Video (walkthrough, gameplay and explanation): https://drive.google.com/file/d/1ufE4W170UOCZ8gcxwTG4RDCnjQnj-Yuu/view?usp=sharing
-
 Algorithms and data structures
 -----------------------------
 Data structures:
